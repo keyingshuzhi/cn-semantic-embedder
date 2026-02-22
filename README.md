@@ -142,5 +142,3 @@ print(scores)
     <td align="center"><img src="assets/qrcode/粉丝群.jpeg" alt="粉丝群二维码" width="220" /></td>
   </tr>
 </table>
-
-> 若二维码失效，请在仓库提 Issue 联系维护者更新。
