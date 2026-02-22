@@ -124,11 +124,23 @@ print(scores)
 
 ## 联系方式与社群
 
-| 渠道 | 信息 |
-| --- | --- |
-| 联系方式 | 微信：`请填写` / 邮箱：`请填写` |
-| 公众号 | `请填写公众号名称` |
-| 服务号 | `请填写服务号名称` |
-| 粉丝群 | `请填写入群方式（二维码/加微信拉群）` |
+欢迎通过以下渠道获取项目动态、技术分享与服务支持：
 
-> 建议：可将二维码图片放到 `assets/qrcode/` 后，在本节补充图片链接，便于用户直接扫码。
+- 公众号：扫码关注「微信公众号」
+- 服务号：扫码关注「微信服务号」
+- 粉丝群：扫码加入「技术粉丝群」
+
+<table>
+  <tr>
+    <td align="center"><strong>微信公众号</strong></td>
+    <td align="center"><strong>微信服务号</strong></td>
+    <td align="center"><strong>粉丝群</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/qrcode/微信公众号.jpeg" alt="微信公众号二维码" width="220" /></td>
+    <td align="center"><img src="assets/qrcode/微信服务号.jpeg" alt="微信服务号二维码" width="220" /></td>
+    <td align="center"><img src="assets/qrcode/粉丝群.jpeg" alt="粉丝群二维码" width="220" /></td>
+  </tr>
+</table>
+
+> 若二维码失效，请在仓库提 Issue 联系维护者更新。
